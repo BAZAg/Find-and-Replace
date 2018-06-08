@@ -1,0 +1,496 @@
+2018-05-29 13:53:18 - PHP Notice:  Undefined variable: shop_address in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 87
+2018-05-30 6:40:11 - PHP Notice:  Undefined variable: error_tg in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\setting.tpl on line 169
+2018-05-30 9:35:00 - PHP Notice:  Undefined variable: product_data in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\header.php on line 212
+2018-05-30 9:35:00 - PHP Notice:  Undefined variable: product_data in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\header.php on line 212
+2018-05-30 9:35:00 - PHP Notice:  Undefined variable: product_data in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\header.php on line 212
+2018-05-30 9:46:45 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:46:45 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:46:45 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:46:45 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:50:26 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:50:26 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:50:26 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:50:26 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:52:48 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:52:48 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:52:48 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:52:48 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:53:41 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:53:41 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:53:41 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:53:41 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 102
+2018-05-30 9:57:48 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:57:48 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:57:48 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:57:48 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:58:37 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:58:37 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:58:37 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:58:37 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'href' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 9:59:19 - PHP Warning:  Illegal string offset 'name' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\header.tpl on line 103
+2018-05-30 13:28:17 - PHP Notice:  Undefined index: error in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\header.php on line 259
+2018-05-31 8:53:41 - PHP Notice:  Undefined variable: text_pickup in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 71
+2018-05-31 10:44:00 - PHP Notice:  Undefined index: product_option_value in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 319
+2018-05-31 10:44:32 - PHP Notice:  Undefined index: image in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 319
+2018-05-31 10:56:29 - PHP Notice:  Undefined index: error in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 348
+2018-06-01 9:02:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:06:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:07:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:10:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:11:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:12:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:13:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:14:34 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:15:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 9:16:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 426
+2018-06-01 10:54:48 - PHP Notice:  A non well formed numeric value encountered in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\cart.tpl on line 25
+2018-06-01 10:54:51 - PHP Notice:  A non well formed numeric value encountered in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\cart.tpl on line 25
+2018-06-01 11:33:01 - PHP Notice:  Undefined variable: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\system\storage\modification\admin\view\template\catalog\product_form.tpl on line 936
+2018-06-01 11:35:19 - PHP Notice:  Undefined index: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\controller\catalog\product.php on line 759
+2018-06-01 12:17:16 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 941
+2018-06-01 12:17:16 - PHP Notice:  Undefined variable: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 941
+2018-06-01 12:18:26 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 941
+2018-06-01 12:18:26 - PHP Notice:  Undefined variable: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 941
+2018-06-01 12:19:13 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 944
+2018-06-01 12:19:13 - PHP Notice:  Undefined variable: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 944
+2018-06-01 12:22:08 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 944
+2018-06-01 12:31:30 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 944
+2018-06-01 12:31:30 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 966
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 922
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 924
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_2_h in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 959
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_2_h in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 961
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_2_h in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 965
+2018-06-01 12:34:28 - PHP Notice:  Undefined variable: entry_block_2_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 967
+2018-06-01 12:36:15 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 967
+2018-06-01 12:37:16 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 967
+2018-06-01 12:39:22 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 973
+2018-06-01 12:41:14 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 12:42:57 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 12:48:00 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 12:50:28 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 12:51:19 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 12:56:54 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: image_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: background_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: image_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:15 - PHP Notice:  Undefined index: image_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-01 13:05:20 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:12:56 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:13:47 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:13:47 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:13:56 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:14:18 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:14:18 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:14:22 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:16:41 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:16:41 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:16:46 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:17:03 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:17:03 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 134
+2018-06-01 13:19:13 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:20:16 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-01 13:20:42 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 6:11:55 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 11:16:40 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 11:27:27 - PHP Notice:  Undefined index: image-full in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 145
+2018-06-04 11:27:27 - PHP Notice:  Undefined index: image-full in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 145
+2018-06-04 11:27:27 - PHP Notice:  Undefined index: image-full in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 145
+2018-06-04 11:27:27 - PHP Notice:  Undefined index: image-full in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 145
+2018-06-04 11:36:21 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 11:37:37 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 11:47:24 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 11:56:13 - PHP Notice:  Undefined index: image in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 443
+2018-06-04 11:56:13 - PHP Notice:  Undefined index: image in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 443
+2018-06-04 12:49:04 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 12:50:50 - PHP Notice:  Undefined index: value in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 185
+2018-06-04 12:51:00 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 13:56:31 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 13:57:45 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 13:58:33 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 13:58:58 - PHP Notice:  Undefined index: value in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 185
+2018-06-04 13:59:10 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-04 14:00:34 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 7:22:56 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 8:25:47 - PHP Notice:  Use of undefined constant fasle - assumed 'fasle' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 356
+2018-06-05 8:31:16 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 8:31:27 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 8:57:20 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 8:58:11 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 9:10:50 - PHP Notice:  Undefined index: text_6_block in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\catalog\product.php on line 54
+2018-06-05 9:24:26 - PHP Notice:  Undefined variable: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 417
+2018-06-05 9:25:03 - PHP Notice:  Undefined variable: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 418
+2018-06-05 9:56:42 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 977
+2018-06-05 10:01:38 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-05 10:02:19 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-05 10:03:06 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-05 10:11:04 - PHP Notice:  Undefined variable: block_class in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 32
+2018-06-05 10:11:22 - PHP Notice:  Undefined variable: block_class in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\product\product.tpl on line 32
+2018-06-05 10:49:16 - PHP Notice:  Undefined index: top in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 474
+2018-06-05 10:49:16 - PHP Notice:  Undefined index: top in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 474
+2018-06-05 10:49:16 - PHP Notice:  Undefined index: top in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 474
+2018-06-05 10:49:16 - PHP Notice:  Undefined index: top in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\product\product.php on line 474
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: h_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: html_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: image_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: image_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: background_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: image_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: h_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: html_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: image_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: h_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: html_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:41 - PHP Notice:  Undefined index: text_block_6 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: h_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: html_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: image_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: image_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: background_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: image_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: h_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: html_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: image_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: h_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: html_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:48 - PHP Notice:  Undefined index: text_block_6 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: h_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: html_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: image_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: image_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: background_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: image_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: h_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: html_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: image_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: h_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: html_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Notice:  Undefined index: text_block_6 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:40:49 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Developer\Desktop\UniServerZ\www\admin\controller\startup\error.php:34) in C:\Users\Developer\Desktop\UniServerZ\www\system\library\response.php on line 12
+2018-06-06 6:40:56 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: h_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: html_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: image_block_0 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: block_1_text in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: image_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: html_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: image_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: background_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: html_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: image_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: h_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: html_block_4 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: image_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: h_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: html_block_5 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:41:20 - PHP Notice:  Undefined index: text_block_6 in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:48:28 - PHP Notice:  Trying to get property of non-object in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 295
+2018-06-06 6:49:26 - PHP Notice:  Trying to get property of non-object in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 296
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 296
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'sku' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 298
+2018-06-06 6:49:26 - PHP Warning:  Cannot assign an empty string to a string offset in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 298
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'upc' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 299
+2018-06-06 6:49:26 - PHP Warning:  Cannot assign an empty string to a string offset in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 299
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'viewed' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 300
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'keyword' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 301
+2018-06-06 6:49:26 - PHP Warning:  Cannot assign an empty string to a string offset in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 301
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'status' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 302
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_attribute' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 304
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 304
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_description' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 305
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 305
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_discount' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 306
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 306
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_filter' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 307
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 307
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_image' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 308
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 308
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_option' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 309
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 309
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_related' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 310
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 310
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_reward' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 311
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 311
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_special' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 312
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 312
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_category' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 313
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 313
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_download' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 314
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 314
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_layout' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 315
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 315
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_store' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 316
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 316
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'product_recurrings' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 317
+2018-06-06 6:49:26 - PHP Notice:  Array to string conversion in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 317
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'model' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'sku' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'upc' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'ean' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'jan' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'isbn' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'mpn' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'location' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'quantity' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'minimum' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'subtract' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'stock_status_id' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'date_available' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'manufacturer_id' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'shipping' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'price' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'points' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'weight' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'weight_class_id' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'length' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'width' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'height' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'length_class_id' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'status' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'tax_class_id' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'sort_order' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 4
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'h_block_0' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'html_block_0' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'image_block_0' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'block_1_text' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'image_block_2' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'h_block_2' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'html_block_2' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'image_block_3' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'background_block_3' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'h_block_3' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'html_block_3' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'image_block_4' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'h_block_4' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'html_block_4' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'image_block_5' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'h_block_5' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'html_block_5' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:26 - PHP Warning:  Illegal string offset 'text_block_6' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 8
+2018-06-06 6:49:27 - PHP Warning:  Illegal string offset 'product_description' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 14
+2018-06-06 6:49:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 14
+2018-06-06 6:49:27 - PHP Warning:  Illegal string offset 'keyword' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 116
+2018-06-06 6:49:27 - PHP Warning:  Illegal string offset 'keyword' in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\catalog\product.php on line 117
+2018-06-06 6:49:27 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Developer\Desktop\UniServerZ\www\admin\controller\startup\error.php:34) in C:\Users\Developer\Desktop\UniServerZ\www\system\library\response.php on line 12
+2018-06-06 6:50:35 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:51:19 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:51:48 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:52:01 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:52:54 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 6:52:54 - PHP Notice:  Undefined variable: entry_bloсk_html in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\product_form.tpl on line 999
+2018-06-06 7:34:54 - PHP Notice:  Undefined variable: button_save in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 6
+2018-06-06 7:34:54 - PHP Notice:  Undefined variable: cancel in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 7
+2018-06-06 7:34:54 - PHP Notice:  Undefined variable: button_cancel in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 7
+2018-06-06 7:34:54 - PHP Notice:  Undefined variable: breadcrumbs in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 10
+2018-06-06 7:34:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 10
+2018-06-06 7:35:40 - PHP Notice:  Undefined variable: button_save in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 6
+2018-06-06 7:35:40 - PHP Notice:  Undefined variable: cancel in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 7
+2018-06-06 7:35:40 - PHP Notice:  Undefined variable: button_cancel in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 7
+2018-06-06 7:36:16 - PHP Notice:  Undefined variable: cancel in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 7
+2018-06-06 8:39:43 - PHP Notice:  Trying to get property of non-object in C:\Users\Developer\Desktop\UniServerZ\www\admin\model\setting\home_design.php on line 5
+2018-06-06 8:39:43 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:40:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:48:05 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:52:05 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 45
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 71
+2018-06-06 8:55:17 - PHP Notice:  Undefined variable: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 77
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 45
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 71
+2018-06-06 8:56:25 - PHP Notice:  Undefined variable: h_block_3 in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 77
+2018-06-06 8:57:41 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 21
+2018-06-06 8:57:41 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 45
+2018-06-06 8:57:41 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 8:57:41 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 8:57:41 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 71
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: action in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 17
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:06:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:07:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:07:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:07:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:07:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:07:14 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:08:45 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:08:45 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:08:45 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:08:45 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:08:45 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:08:52 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:08:52 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:08:52 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:08:52 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:08:52 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:09:12 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:09:12 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:09:12 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:09:12 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:09:12 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:11:55 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:11:55 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:11:55 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:11:55 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:11:55 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:21:50 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 22
+2018-06-06 9:21:50 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 46
+2018-06-06 9:21:50 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 47
+2018-06-06 9:21:50 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 48
+2018-06-06 9:21:50 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\home_design.tpl on line 72
+2018-06-06 9:41:01 - PHP Notice:  Undefined index: base in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 27
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:01 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:01 - PHP Notice:  Undefined variable: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\home.tpl on line 38
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 38
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 39
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 41
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 42
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 46
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: pattern in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: replacement in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:43 - PHP Warning:  preg_replace(): Empty regular expression in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\common\home.php on line 47
+2018-06-06 9:41:43 - PHP Notice:  Undefined variable: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\home.tpl on line 38
+2018-06-06 9:42:08 - PHP Notice:  Undefined variable: h_block_2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\home.tpl on line 38
+2018-06-06 10:06:56 - PHP Notice:  Undefined variable: help_extra_bottom in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 142
+2018-06-06 10:06:56 - PHP Notice:  Undefined variable: entry_extra_bottom in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 142
+2018-06-06 10:06:56 - PHP Notice:  Undefined variable: extra_bottom in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 146
+2018-06-06 10:48:35 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:48:35 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:48:35 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:48:35 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:49:31 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:49:31 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:49:31 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:49:31 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:50:39 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:50:39 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:50:39 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:50:39 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:34 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:34 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:34 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:38 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:38 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:38 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:39 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:39 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:39 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:40 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:40 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:51:40 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:52:15 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:52:15 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 135
+2018-06-06 10:53:01 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 136
+2018-06-06 10:53:01 - PHP Notice:  Undefined offset: 3 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\common\footer.tpl on line 136
+2018-06-06 12:07:40 - PHP Notice:  Undefined variable: thumb in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 220
+2018-06-06 12:07:40 - PHP Notice:  Undefined variable: placeholder in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 220
+2018-06-06 12:07:40 - PHP Notice:  Undefined variable: image in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\catalog\information_form.tpl on line 220
+2018-06-07 8:34:21 - PHP Notice:  Undefined index: type in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 438
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: shipping_method in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 106
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 110
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: code in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 110
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 111
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 112
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 117
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 117
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 110
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 111
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 112
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 117
+2018-06-07 9:50:02 - PHP Notice:  Undefined variable: quote in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 117
+2018-06-07 9:51:57 - PHP Notice:  Undefined variable: code in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 111
+2018-06-07 9:51:57 - PHP Notice:  Undefined variable: code in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 111
+2018-06-07 9:52:58 - PHP Notice:  Undefined variable: code in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 111
+2018-06-07 10:20:59 - PHP Notice:  Undefined variable: column_image in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 37
+2018-06-07 11:31:56 - PHP Warning:  Illegal string offset 'customer_group_id' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 874
+2018-06-07 11:31:56 - PHP Warning:  Illegal string offset 'custom_field' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 881
+2018-06-07 11:31:56 - PHP Notice:  Undefined index: payment_method in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 1168
+2018-06-07 12:00:21 - PHP Notice:  Undefined offset: 1 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 705
+2018-06-07 12:11:43 - PHP Warning:  Illegal string offset 'customer_group_id' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 874
+2018-06-07 12:11:43 - PHP Warning:  Illegal string offset 'custom_field' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 881
+2018-06-07 12:11:53 - PHP Warning:  Illegal string offset 'customer_group_id' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 874
+2018-06-07 12:11:53 - PHP Warning:  Illegal string offset 'custom_field' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 881
+2018-06-07 12:14:34 - PHP Warning:  Illegal string offset 'custom_field' in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\checkout\cart.php on line 881
+2018-06-07 12:33:10 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:33:10 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:33:10 - PHP Warning:  array_key_exists() expects exactly 2 parameters, 1 given in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:33:26 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:33:26 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:34:09 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 12:34:09 - PHP Notice:  Undefined offset: 2 in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\checkout\cart.tpl on line 128
+2018-06-07 13:31:43 - PHP Notice:  Undefined index: middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:31:43 - PHP Notice:  Undefined index: payment_middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:31:43 - PHP Notice:  Undefined index: shipping_middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:32:40 - PHP Notice:  Undefined index: middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:32:40 - PHP Notice:  Undefined index: payment_middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:32:40 - PHP Notice:  Undefined index: shipping_middlename in C:\Users\Developer\Desktop\UniServerZ\www\catalog\model\checkout\order.php on line 4
+2018-06-07 13:36:33 - PHP Notice:  Undefined variable: middlename in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\sale\order_info.tpl on line 56
+2018-06-08 6:41:16 - PHP Notice:  Undefined variable: text_information in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\setting.tpl on line 1501
+2018-06-08 6:45:00 - PHP Notice:  Undefined variable: config_company_name in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\setting.tpl on line 1505
+2018-06-08 7:22:44 - PHP Notice:  Undefined variable: config_contact_block in C:\Users\Developer\Desktop\UniServerZ\www\admin\view\template\setting\setting.tpl on line 1571
+2018-06-08 7:26:37 - PHP Notice:  Undefined index: base in C:\Users\Developer\Desktop\UniServerZ\www\catalog\controller\information\contact.php on line 69
+2018-06-08 8:40:03 - PHP Notice:  Undefined variable: company_whatsapp in C:\Users\Developer\Desktop\UniServerZ\www\catalog\view\theme\haterstudio\template\information\contact.tpl on line 141

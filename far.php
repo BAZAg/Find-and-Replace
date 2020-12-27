@@ -10,11 +10,15 @@
  * license:     GNU General Public License version 2 or later
 */
 
-//Параметры
-define('PASS', 'Qa1234567'); //пароль (желательно поменять на свой). Для запуска скрипта, в браузер введите адрес http://example.com/far.php?pass=Dr57fd, где example.com - адрес вашего сайта, Dr57fd - ваш пароль
+// Для запуска скрипта, в браузер введите адрес http://site.ru/far.php?pass=*******, где
+// site.ru - адрес вашего сайта, 
+// ******* - ваш пароль
+
+// Параметры
+define('PASS', '*******'); //пароль (желательно поменять на свой). 
+
 define('EXT', 'gif,jpg,jpeg,png,zip,rar,pdf,css,flv,mp3,mp4,swf'); //расширения файлов, в которых не производить поиск
 define('CNT_STR', 100); //количество выводимых символов в результате поиска (до искомой фразы и после)
-
 define('BASE_NAME', basename(__FILE__));
 define('DIR_NAME', dirname(__FILE__));
 
@@ -28,15 +32,13 @@ if ($_GET['pass'] != PASS) {
 //поддержка старых версий PHP
 if (!function_exists('file_put_contents')) {
 	function file_put_contents($filename, $data) {
-		
 		$f = fopen($filename, 'w');
-		
 		if (!$f) {
 			return false;
-		} else {
+		}
+		else {
 			$bytes = fwrite($f, $data);
 			fclose($f);
-			
 			return $bytes;
 		}
 	}
@@ -45,38 +47,27 @@ if (!function_exists('file_put_contents')) {
 //поддержка старых версий PHP
 if (!function_exists('file_get_contents')) {
 	function file_get_contents($filename) {
-		
 		$f = fopen($filename, 'r');
 		$fcontents = fread($f, filesize($filename));
-		
 		fclose($f);
-		
 		return $fcontents;
 	}
 }
 
 //функция поиска
 function scan_dir($dirname) { 
-	
 	global $text, $replace, $ext, $cnt, $html, $regex, $regis;
-				
 	$dir = opendir($dirname);
-				
 	while (($file = readdir($dir)) !== false) {
-		
 		if ($file != '.' && $file != '..') {
 			$file_name = $dirname.DIRECTORY_SEPARATOR.$file;
-			
 			if (is_file($file_name)) {
 				$ext_name = substr(strrchr($file_name, '.'), 1);
-				
 				if (in_array($ext_name, $ext) || $file_name == '.'.DIRECTORY_SEPARATOR.BASE_NAME) {
 					continue;
 				}
-							
 				$content = encoding(file_get_contents($file_name));
 				$str = '';
-				
 				if ($regex) {
 					if (preg_match('/'.$text.'/s'.$regis, $content, $res, PREG_OFFSET_CAPTURE)) {
 						$str = preg_replace('/('.$text.')/s'.$regis, "%find%\$1%/find%", mysubstr($content, $res[0][1], $res[0][0]));
@@ -86,72 +77,57 @@ function scan_dir($dirname) {
 						$str = str_replace($text, '%find%'.$text.'%/find%', mysubstr($content, $pos, $text));
 					}
 				}
-				
 				if ($str != '') {
 					$cnt++;
-					
 					if ($replace) {
 						replace($content, $file_name, $regex);
 					}
-					
 					$arg = urlencode(DIR_NAME.DIRECTORY_SEPARATOR.$file_name);
 					$html .= '<div class="result-item"><div class="left"><b>'.$cnt.':</b> <span class="file">'.encoding($file_name).'</span></div><div onClick="del(this, \''.$arg.'\')" title="Удалить файл" class="btn btn-danger btn-mini right">x</div><div onClick="edit(\''.$arg.'\')" class="btn btn-info btn-mini right">Редактировать</div><div class="clear"></div><code title="Щелкните два раза, чтоб увидеть полный текст файла" ondblclick="seeAll(this, \''.$arg.'\')">...'.htmlspecialchars($str).'...</code></div>';
 				}
 			}
-		
 			if (is_dir($file_name)) {
 				scan_dir($file_name);
 			}
-		}			
+		}
 	}
-				
 	closedir($dir);
 }
 
 //удаляем экранирование если нужно
 function mystripslashes($string) {
-	
 	if (get_magic_quotes_gpc()) {
 		return stripslashes($string);
-	} else {
+	}
+	else {
 		return $string;
-    }
+	}
 }
 
-//функция замены
+// функция замены
 function replace($content, $file_name, $regex) {
-	
 	global $retext, $text, $regis;
-	
 	if ($regex) {
 		$content = preg_replace('/'.$text.'/s'.$regis, $retext, $content);
 	} else {
 		$content = str_replace($text, $retext, $content); 
 	}
-						
 	if (!is_writable($file_name)) {
 		chmod($file_name, 0644);
 	}
-									
 	return file_put_contents($file_name, $content);
 }
 
-
 function mysubstr($content, $pos, $find_str, $cnt_str = CNT_STR) {
-	
 	$pos_start = $pos - $cnt_str;
-					
 	if ($pos_start <= 0) {
 		$pos_start = 0;
 	}
-					
 	$pos_end = ($pos - $pos_start) + strlen($find_str) + $cnt_str;
-						
 	return substr($content, $pos_start, $pos_end);
 }
 
 function encoding($content) {
-	
 	if (mb_check_encoding($content, 'windows-1251') && !mb_check_encoding($content, 'utf-8')) {
 		return mb_convert_encoding($content, 'utf-8', 'windows-1251');
 	} else {
@@ -160,20 +136,18 @@ function encoding($content) {
 }
 
 function tree($dirname) {
-	
 	if (is_readable($dirname)) {
 		$dir = opendir($dirname);
-		
 		while (($item = readdir($dir)) !== false) {
 			if ($item != '.' && $item != '..') {
 				$path = $dirname.DIRECTORY_SEPARATOR.$item;
-				
 				if (is_dir($path)) {
 					echo '<div><span onClick="getDirs(this)">+</span><a rel="'.$path.'" onClick="document.getElementById(\'dir\').value = this.getAttribute(\'rel\');" href="javascript: void(0)">'.$item.'</a><div class="tree-items"></div></div>';
 				}
 			}
 		}
-	} else {
+	}
+	else {
 		echo '<div>Директория не доступна для чтения</div>';	
 	}
 }
@@ -185,35 +159,33 @@ ini_set('max_execution_time', '1800');
 ini_set('memory_limit', '256M');
 
 $err_arr = array(0 => '', 1 => '');
-
 if (isset($_POST['submit'])) {
-	
 	$err = '';
-	
 	if (empty($_POST['text'])) {
 		$err .= '<div>Введите текст для поиска</div>';
 		$err_arr[0] = ' class="error"';
-	} else {
+	}
+	else {
 		$text = mystripslashes($_POST['text']);
 	}
-	
 	if (trim($_POST['dir']) == '') {
 		$err .= '<div>Введите имя директории, в которой производить поиск</div>';
 		$err_arr[1] = ' class="error"';
-	} else {
+	}
+	else {
 		$dir = trim($_POST['dir']);
 	}
-	
+
 	$retext = mystripslashes($_POST['retext']);
 	$replace = isset($_POST['replace']) ? 1 : 0;
 	$regex = isset($_POST['regex']) ? 1 : 0;
 	$regis = isset($_POST['regis']) ? '' : 'i';
-		
+
 	if (empty($err)) {
 		$cnt = 0;
 		$ext = explode(',', $_POST['ext']);
 		$start_time = microtime(true);
-			
+
 		$html = '<div class="result">';
 
 		if ($replace) {
@@ -221,18 +193,18 @@ if (isset($_POST['submit'])) {
 		} else {
 			$html .= '<h2>Заданный текст найден в файлах:</h2> ';
 		}
-		
+
 		if (is_readable($dir)) {
 			scan_dir($dir);	
 		} else {
 			$err .= '<div>Директория не доступна для чтения</div>';
 			$err_arr[1] = ' class="error"';
 		}
-		
+
 		if (!$cnt) {
 			$html .= 'Нет совпадений';
 		}
-				
+
 		$exec_time = round(microtime(true) - $start_time, 3);
 		$html .= '<br><b>Время выполнения: '.$exec_time.' сек.</b></div>';
 	}
@@ -245,10 +217,10 @@ if (isset($_POST['quote'])) {
 
 if (isset($_POST['all'])) {
 	$file = $_POST['all'];
-	
+
 	if (is_file($file) == true) {
 		$content = encoding(file_get_contents($file));
-		
+
 		$text = mystripslashes($_POST['text_e']);
 		
 		if ($_POST['regex_e']) {
@@ -256,25 +228,22 @@ if (isset($_POST['all'])) {
 		} else {
 			$content = str_replace($text, '%find%'.$text.'%/find%', $content);
 		}
-		
 		echo nl2br(str_replace(array('%find%', '%/find%'), array('<b>', '</b>'), htmlspecialchars($content)));
 	} else {
 		echo 'Ошибка: файл не найден';
 	}
-	
 	exit();
 }
 
 if (isset($_POST['del'])) {
 	$file = $_POST['del'];
-	
 	if (is_file($file) == true) {
 		chmod($file, 0644);
-		
 		if (@unlink($file) == false) {
 			echo 'Ошибка: не удалось удалить файл';
-		} else {
-			echo 'ok';	
+		}
+		else {
+			echo 'ok';
 		}
 	} else {
 		echo 'Ошибка: не удалось удалить файл';
@@ -303,7 +272,6 @@ if (isset($_POST['save'])) {
 
 if (isset($_POST['tree'])) {
 	echo tree($_POST['tree']);
-	
 	exit();
 }
 ?>
@@ -436,7 +404,7 @@ if (isset($_POST['tree'])) {
 			}
 			
 			var e = evnt.toElement || evnt.relatedTarget;
-        
+
 			if (e.parentNode == this || e == this) {
 			   return;
 			}
@@ -454,14 +422,13 @@ if (isset($_POST['tree'])) {
 		obj.ondblclick = '';
 		obj.onmouseout = handler;
 	}
-	
+
 	function exitCode(obj, file_name) {
-		
 		var handler = function() {
 			seeAll(obj, file_name);
 			return false;
 		};
-		
+
 		obj.innerHTML = document.getElementById('hold').value;
 		obj.style.height = 'auto';
 		obj.style.overflow = 'inherit';
@@ -1075,7 +1042,7 @@ label {
 ?>
 <div class="footer">
 	<div class="copy">
-    	&copy; <?php echo date('Y'); ?> <a href="http://secu.ru/">secu.ru</a>
+    	&copy; <?php echo date('Y'); ?> <a href="#">site.ru</a>
 	</div>
 </div>
 </body>

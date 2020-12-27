@@ -1,13 +1,14 @@
 <?php
-/**
- * script name: Find and Replace (FAR)
- * author:      Bordyzhan Sergey
- * author mail: bordyzhan@gmail.com
- * author URI:  http://cmsdev.org/
- * script URI:  http://secu.ru/scripts/find-and-replace
- * version:     1.4
- * copyright:   Copyright (C) 2013 secu.ru. All rights reserved.
- * license:     GNU General Public License version 2 or later
+
+/*
+	* script name: Find and Replace (FAR)
+	* author:      Bordyzhan Sergey
+	* author mail: bordyzhan@gmail.com
+	* author URI:  http://cmsdev.org/
+	* script URI:  http://secu.ru/scripts/find-and-replace
+	* version:     1.4
+	* copyright:   Copyright (C) 2013 secu.ru. All rights reserved.
+	* license:     GNU General Public License version 2 or later
 */
 
 // Для запуска скрипта, в браузер введите адрес http://site.ru/far.php?pass=*******, где
